@@ -1,0 +1,41 @@
+[33mcommit 8e3850ce30c86c0c9d5045f86aa2c8de3bf23d50[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Chen bin <115059220@qq.com>
+Date:   Mon Dec 16 08:53:48 2019 +0800
+
+    new
+
+[1mdiff --git a/123.txt b/123.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git "a/\346\265\213\350\257\225\346\212\245\345\221\212.txt" "b/\346\265\213\350\257\225\346\212\245\345\221\212.txt"[m
+[1mindex f129554..e2e24c2 100644[m
+[1m--- "a/\346\265\213\350\257\225\346\212\245\345\221\212.txt"[m
+[1m+++ "b/\346\265\213\350\257\225\346\212\245\345\221\212.txt"[m
+[36m@@ -1 +1,2 @@[m
+[31m-12121212[m
+\ No newline at end of file[m
+[32m+[m[32m12121212[m
+[32m+[m[32m8787[m
+\ No newline at end of file[m
+
+[33mcommit bf9614ed8072d78a625506ebbbbd8a79746f8a8b[m
+Author: Chen bin <115059220@qq.com>
+Date:   Mon Dec 16 08:39:54 2019 +0800
+
+    è®¡åˆ’
+
+[1mdiff --git a/readme.txt b/readme.txt[m
+[1mindex e69de29..83d046b 100644[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m´ó±¾Óª Ìü[m
+\ No newline at end of file[m
+[1mdiff --git "a/\346\265\213\350\257\225\346\212\245\345\221\212.txt" "b/\346\265\213\350\257\225\346\212\245\345\221\212.txt"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f129554[m
+[1m--- /dev/null[m
+[1m+++ "b/\346\265\213\350\257\225\346\212\245\345\221\212.txt"[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m12121212[m
+\ No newline at end of file[m
